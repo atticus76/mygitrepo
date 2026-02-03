@@ -1,2 +1,38 @@
-vi
+#? indicate research further (should research everything further)
+# (***) no idea if this is good to include or not
+
+
+
+vi ?
 ls
+cd
+code
+nano
+touch
+mkdir
+mv ?
+rm ?
+cp ?
+grep ?
+echo
+pwd ?
+man
+sort
+ln
+whereis
+df
+rmdir
+locate
+uname
+ps
+clear
+wget
+whoami
+wc
+cat
+cal
+
+
+sudo (***)
+dnf (***)
+g++ (***)
